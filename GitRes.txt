@@ -1,0 +1,9 @@
+$ cd
+$ cd C:/
+$ cd helpdesk
+$ git clone https://github.com/allyahmu/ helpdesk.git
+$ cd helpdesk /
+$ git status
+$ gid add .
+$ git commit –m “HelpDesk”
+$ git push origin master
